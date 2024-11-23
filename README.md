@@ -1,4 +1,4 @@
-# *GlobalSolution - Java*
+# *GlobalSolution*
 
 ## Sumário
 - [Objetivo do Projeto](#Plataforma de Monitoramento e Gestão de Indústrias)
@@ -31,7 +31,7 @@ Com base na análise dos dados, a plataforma sugere estratégias para otimizar o
 ![alt text](Diagrama1.png)
 
 ## Integrantes
-Thiago Carrillo RM553565
-Igor Oviedo RM553434
-Cauã Loureiro RM553093
+### Thiago Carrillo RM553565
+### Igor Oviedo RM553434
+### Cauã Loureiro RM553093
 
