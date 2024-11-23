@@ -30,7 +30,7 @@ Com base na análise dos dados, a plataforma sugere estratégias para otimizar o
 ## Diagrama de Classes
 ![alt text](Diagrama1.png)
 
-## Integrantes
+## Integrantes (Todos da 2TDSPS)
 ### Thiago Carrillo RM553565
 ### Igor Oviedo RM553434
 ### Cauã Loureiro RM553093
